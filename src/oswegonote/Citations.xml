@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Index>
+    <Citation>
+        <Book>
+            <Name>A Wavelet Tour of Signal Processing</Name>
+            <Publisher>Academic Press</Publisher>
+            <PublicationDate>01/01/2009</PublicationDate>
+            <PublicationPlace>Burlington,MA</PublicationPlace>
+            <Authors>
+                <author>Stephanie M Mallot</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>DSP</Keyword>
+                <Keyword>Wavelets</Keyword>
+                <Keyword>Sparse Data</Keyword>
+    		</Keywords>
+    	</Book>
+    </Citation>
+
+    <Citation>
+        <JournalArticle>
+            <Name>The attractions of stupidity</Name>
+            <TitleOfJournal>The St. Croix Review</TitleOfJournal>
+            <PublicationDate>October, 2002</PublicationDate>
+            <volNumber>30</volNumber>
+            <IssueNumber>2</IssueNumber>
+            <Authors>
+                <author>Harry Hank Hirsh</author>
+                <author>Mark Harold Coen</author>
+                <author>Michael Charles Mozer</author>
+    		</Authors>
+            <Pages StartPage="6" EndPage="10"/>
+            <Keywords>
+                <Keyword>Psychology</Keyword>
+                <Keyword>Sociology</Keyword>
+                <Keyword>Intelligence</Keyword>
+                <Keyword>Sexuality</Keyword>
+    		</Keywords>
+    	</JournalArticle>
+    </Citation>
+    <Citation>
+        <Unpublished>
+            <Name>Working in the classroom to balance intellectual and emotional needs of at-risk students</Name>
+            <Authors>
+                <author>Geoffrey Fred Green</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>Special Needs</Keyword>
+                <Keyword>Education</Keyword>
+                <Keyword>Emotional Health</Keyword>
+    		</Keywords>
+    	</Unpublished>
+    </Citation>
+    <Citation>
+        <ConferenceProceedings>
+            <Name>5,8 Analogies per hour: A designer's view on analogical reasoning</Name>
+            <Publisher>Kluwer Academic Publishers</Publisher>
+            <ConferenceLocation>Cambridge, UK</ConferenceLocation>
+            <ConferenceYear>2002</ConferenceYear>
+            <Editor>John F. Kennedy</Editor>
+            <Pages StartPage="285" EndPage="303"/>
+            <Authors>
+                <author>Peter G. Leclercq</author>
+                <author>Anthony Francis Heylighen</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>A.I.</Keyword>
+                <Keyword>Computing</Keyword>
+            </Keywords>
+        </ConferenceProceedings>
+    </Citation>
+    <FormattingStyle>IEEE</FormattingStyle>
+    <FilePath>C:\\Users\\mhromalik\\Documents\\Suny Oswego\\fall 2012\\csc241 CS2\\student work\\Assignment 2 submission\\RightOutput\\MyCitation.html</FilePath>
+</Index>
